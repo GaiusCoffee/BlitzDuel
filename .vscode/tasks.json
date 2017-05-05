@@ -11,8 +11,8 @@
       },
       {
         "taskName": "build",
-        "command":"cordova",
-        "args":["prepare", "browser"],
+        "command":"build.bat",
+        "args":[],
         "isShellCommand": true,
         "showOutput": "always",
         "isBackground": true,
@@ -21,7 +21,7 @@
       {
         "taskName": "serve",
         "command":"http-server",
-        "args":[".\\platforms\\browser\\www"],
+        "args":[".\\docs"],
         "isShellCommand": true,
         "showOutput": "always",
         "isBackground": true
