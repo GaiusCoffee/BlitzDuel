@@ -44,23 +44,23 @@ Blitz Duel is a fast-paced online multiplayer collectible card game.
 - 20 Speed
 - 10 Spellblade (Arcane/Might)
 - 10 Wizard (Arcane/Critical)
-- 10 Rogue (Critical/Speed)
-- 10 Cleric (Divine/Speed)
+- 10 Assassin (Critical/Speed)
+- 10 Warpriest (Divine/Speed)
 - 10 Paladin (Armor/Divine)
-- 10 Warrior (Armor/Might)
+- 10 Commander (Armor/Might)
 
 36 Rares
 - 6 Spellblade (Arcane/Might)
 - 6 Wizard (Arcane/Critical)
-- 6 Rogue (Critical/Speed)
-- 6 Cleric (Divine/Speed)
+- 6 Assassin (Critical/Speed)
+- 6 Warpriest (Divine/Speed)
 - 6 Paladin (Armor/Divine)
-- 6 Warrior (Armor/Might)
+- 6 Commander (Armor/Might)
 
 18 Epics & 6 Legends
 - 2 Epics & 1 Legend for a Named Spellblade
 - 2 Epics & 1 Legend for a Named Wizard
-- 2 Epics & 1 Legend for a Named Rogue
-- 2 Epics & 1 Legend for a Named Cleric
+- 2 Epics & 1 Legend for a Named Assassin
+- 2 Epics & 1 Legend for a Named Warpriest
 - 2 Epics & 1 Legend for a Named Paladin
-- 2 Epics & 1 Legend for a Named Warrior
+- 2 Epics & 1 Legend for a Named Commander
