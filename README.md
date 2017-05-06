@@ -27,7 +27,7 @@ Blitz Duel is a fast-paced online multiplayer collectible card game.
 | | Collection | |
 | | - Decks | First 4 Cards of Deck 1 Shared; 8 Decks |
 | | - Cards | Filters |
-| | Core Set | Contains at least 120 cards. 1 Pack = 4 Cards;<br/>3 Commons & 1 Rare/Epic/Legend.<br/>90 Commons, 18 Rares; 6 Epics & 6 Legends.<br/>90usd for full collection. |
+| | Core Set | Contains exactly 240+1 cards. 1 Pack = 4 Cards;<br/>3 Commons & 1 Rare/Epic/Legend.<br/>180 Commons, 36 Rares; 18 Epics & 6 Legends.<br/>180usd for full collection. |
 | | Friend | Completes the last 4 cards in your deck |
 | | - List | Maximum of 30 Friends; Can remove here. |
 | | - Approve | Can see the current shared<br/>cards before approval. |
@@ -35,32 +35,32 @@ Blitz Duel is a fast-paced online multiplayer collectible card game.
 
 ## Core Set Breakdown
 
-90 Commons
-- 10 Arcane
-- 10 Armor
-- 10 Critical
-- 10 Divine
-- 10 Might
-- 10 Speed
-- 5 Spellblade (Arcane/Might)
-- 5 Wizard (Arcane/Critical)
-- 5 Rogue (Critical/Speed)
-- 5 Cleric (Divine/Speed)
-- 5 Paladin (Armor/Divine)
-- 5 Warrior (Armor/Might)
+180 Commons
+- 20 Arcane
+- 20 Armor
+- 20 Critical
+- 20 Divine
+- 20 Might
+- 20 Speed
+- 10 Spellblade (Arcane/Might)
+- 10 Wizard (Arcane/Critical)
+- 10 Rogue (Critical/Speed)
+- 10 Cleric (Divine/Speed)
+- 10 Paladin (Armor/Divine)
+- 10 Warrior (Armor/Might)
 
-18 Rares
-- 3 Spellblade (Arcane/Might)
-- 3 Wizard (Arcane/Critical)
-- 3 Rogue (Critical/Speed)
-- 3 Cleric (Divine/Speed)
-- 3 Paladin (Armor/Divine)
-- 3 Warrior (Armor/Might)
+36 Rares
+- 6 Spellblade (Arcane/Might)
+- 6 Wizard (Arcane/Critical)
+- 6 Rogue (Critical/Speed)
+- 6 Cleric (Divine/Speed)
+- 6 Paladin (Armor/Divine)
+- 6 Warrior (Armor/Might)
 
-6 Epics & 6 Legends
-- 1ea for a Named Spellblade
-- 1ea for a Named Wizard
-- 1ea for a Named Rogue
-- 1ea for a Named Cleric
-- 1ea for a Named Paladin
-- 1ea for a Named Warrior
+18 Epics & 6 Legends
+- 2 Epics & 1 Legend for a Named Spellblade
+- 2 Epics & 1 Legend for a Named Wizard
+- 2 Epics & 1 Legend for a Named Rogue
+- 2 Epics & 1 Legend for a Named Cleric
+- 2 Epics & 1 Legend for a Named Paladin
+- 2 Epics & 1 Legend for a Named Warrior
