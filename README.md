@@ -58,9 +58,9 @@ Blitz Duel is a fast-paced online multiplayer collectible card game.
 - 6 Commander (Armor/Might)
 
 18 Epics & 6 Legends
-- 2 Epics & 1 Legend for a Named Spellblade
-- 2 Epics & 1 Legend for a Named Wizard
-- 2 Epics & 1 Legend for a Named Assassin
-- 2 Epics & 1 Legend for a Named Warpriest
-- 2 Epics & 1 Legend for a Named Paladin
-- 2 Epics & 1 Legend for a Named Commander
+- 3 Epics & 1 Legend for a Named Spellblade
+- 3 Epics & 1 Legend for a Named Wizard
+- 3 Epics & 1 Legend for a Named Assassin
+- 3 Epics & 1 Legend for a Named Warpriest
+- 3 Epics & 1 Legend for a Named Paladin
+- 3 Epics & 1 Legend for a Named Commander
