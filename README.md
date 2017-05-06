@@ -11,10 +11,10 @@ Blitz Duel is a fast-paced online multiplayer collectible card game.
 | | - Ranked Mode | Same as USCF ratings<br/>Earn 60BzC for 1st match daily. |
 | | -- Lifetime ELO Rating | |
 | | -- Seasonal ELO Rating | |
-| | --- Early Dust Season | Starts every October 1 |
+| | --- Early Dust Season | Starts every October 1; New Core Set |
 | | --- Late Dust Season | Starts every January 1 |
-| | --- Early Green Season | Starts every April 1 |
-| | --- Late Green Season | Starts every July 1 |
+| | --- Early Green Season | Starts every April 1; New Expansion |
+| | --- Late Green Season | Starts every July 1; New Expansion |
 | | - Casual Mode | |
 | | - Game Types | |
 | | -- Classic | Duel using the Classic Deck |
