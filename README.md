@@ -18,7 +18,7 @@ Blitz Duel is a fast-paced online multiplayer collectible card game.
 | | - Casual Mode | |
 | | - Game Types | |
 | | -- Classic | Duel using the Classic Deck |
-| | -- Standard | Duel using the last Core set and the last two Expansions. |
+| | -- Standard | Duel using the last Core set<br/>and the last two Expansions. |
 | | -- Unlimited | Duel using any deck you want. |
 | | Store | |
 | | - Buy BlitzCoins | 3usd = 100 BzC |
@@ -27,4 +27,4 @@ Blitz Duel is a fast-paced online multiplayer collectible card game.
 | | Collection | |
 | | - Decks | First 4 Cards of Deck 1 Shared; 8 Decks |
 | | - Cards | Filters |
-| | Core Set | Contains at least 120 cards. 1 Pack = 4 Cards; 3 Commons & 1 Rare/Epic/Legend. 90 Commons, 20 Rares; 6 Epics & 4 Legends. 90usd for full collection. |
+| | Core Set | Contains at least 120 cards. 1 Pack = 4 Cards;<br/>3 Commons & 1 Rare/Epic/Legend.<br/>90 Commons, 20 Rares; 6 Epics & 4 Legends.<br/>90usd for full collection. |
